@@ -1,4 +1,4 @@
-### LESSON 01:
+# LESSON 01:
 ## challenges ->
 
 ![alt text](image-1.png)
