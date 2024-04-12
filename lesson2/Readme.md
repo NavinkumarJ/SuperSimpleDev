@@ -1,5 +1,6 @@
 # LESSON 02:
-## Challensges->
+## CSS Basics :
 ![alt text](image.png)
-![alt text](image-1.png)
+
+## Challenge :
 ![alt text](image-3.png)

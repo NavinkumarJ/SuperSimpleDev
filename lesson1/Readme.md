@@ -1,5 +1,7 @@
 # LESSON 01:
-## challenges ->
 
+## HTML Basics :
 ![alt text](image-1.png)
+
+## Challenge :
 ![alt text](image.png)
