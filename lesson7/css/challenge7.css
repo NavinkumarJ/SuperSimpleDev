@@ -1,0 +1,87 @@
+img{
+    margin-right: 20px;
+}
+.img1{
+    width:200px;
+    border-radius: 10px;
+}
+.img2{
+    width:130px;
+    height: 135px;
+    object-fit: cover;
+}
+.img3{
+    width:150px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 1000px;
+}
+.box{
+    padding: 10px 10px 10px 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    border-width:1px;
+    margin-right: 20px;
+}
+.go{
+    width: 500px;
+    padding: 10px 10px 10px 10px;
+    background-color: white;
+    color: gray;
+    border: none;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+}
+.p{
+    font-family:Arial;
+    margin-top:20px;
+    margin-bottom:10px;
+    color:black;
+    opacity: 0.7;
+}
+.link{
+    margin-top:0;
+    width:270px;
+}
+.foot{
+    color:gray;
+    font-family: Arial;
+    font-size: 11px;
+}
+.bl{
+    background-color:rgb(10,102,194);
+    border-radius: 20px;
+    border:none;
+    color:white;
+    padding:12px 100px 12px 100px;
+    margin-bottom:50px;
+}
+.pro{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    vertical-align: middle;
+    object-fit: cover;
+    margin-right:10px;
+}
+.wht{
+    font-size: 18px;
+    border: none;
+    width: 250px;
+    vertical-align: middle;
+    margin-right:0;
+}
+.tweet{
+    background-color: rgb(73, 161, 219);
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    vertical-align: middle;
+}

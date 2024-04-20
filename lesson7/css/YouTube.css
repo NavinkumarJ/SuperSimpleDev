@@ -1,0 +1,21 @@
+.thumb1{
+    width:300px;
+    height: 300px;
+    object-fit:cover ;
+    object-position: left;
+}
+.thumb2{
+    width:300px;
+    height: 300px;
+    object-fit:cover ;
+    object-position: right;
+}
+.thumb3{
+    width:300px;
+    height: 300px;
+    object-fit:cover ;
+    object-position: top;
+}
+input{
+    font-size:25px;
+}
