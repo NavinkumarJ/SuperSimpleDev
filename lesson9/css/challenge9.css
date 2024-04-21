@@ -1,0 +1,150 @@
+div{
+    margin:20px;
+}
+.sqr{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.cir{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 100%;
+}
+.feed{
+    font-family:Arial;
+    font-size:20px;
+}
+button{
+    margin-bottom: 20px;
+}
+.info{
+    background-color: rgb(39, 39, 39);
+    display:inline-block;
+    width:260px;
+    height:70px;
+    font-weight: 700;
+}
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color:white;
+    margin-left: 10px;
+    margin-bottom: 7px;
+    margin-top: 10px;
+}
+.des{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color:gray;
+    margin-left: 10px;
+    margin-top:5px;
+    width:250px;
+}
+.pro{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    vertical-align: middle;
+    object-fit: cover;
+    margin-right:10px;
+}
+.wht{
+    font-size: 18px;
+    border: none;
+    width: 250px;
+    vertical-align: middle;
+    margin-right:0;
+}
+.tweet{
+    background-color: rgb(73, 161, 219);
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.t{
+    display:block;
+    box-shadow: 0px 0px 2px gray;
+    width:400px;
+    padding: 10px;
+    padding-bottom: 0;
+    border-radius: 5px;
+    border: none;
+}
+.dp{
+    width:250px;
+    height:200px;
+    object-fit: cover;
+}
+.profile{
+    width:250px;
+    height:320;
+    box-shadow: 0px 0px 5px rgb(0, 0, 0);
+}
+.profile1{
+    width:250px;
+    height:320;
+    box-shadow: 0px 0px 5px rgb(0, 0, 0);
+    display: inline-block;
+}
+.name{
+    font-family: Arial;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.frd{
+    font-family: Arial;
+    margin-left: 10px;
+    font-size: 20px; 
+    margin-top: 2px;
+    color: gray;
+    margin-bottom:10px;
+}
+.add{
+    font-family: Arial;
+    margin-left: 10px;
+    font-size: 15px;
+    padding: 10px 15px;
+    color: white;
+    background-color: rgb(49, 93, 224);
+    border:none;
+    margin-top:0;
+    margin-bottom:10px;
+    cursor: pointer;
+}
+.logo{
+    margin-bottom:20px;
+}
+.go{
+    width:600px;
+    padding:10px;
+    border-radius:50px;
+    border:none;
+    box-shadow: 1px 1px 5px black; 
+    font-size:15px;
+    margin-bottom:50px;
+
+}
+.google{
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.gob{
+    padding:10px 20px;
+    border: none;
+    margin-top: 0;
+    margin-left: 10px;
+}

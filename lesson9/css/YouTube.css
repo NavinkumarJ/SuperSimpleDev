@@ -1,0 +1,16 @@
+.search{
+    display:block;
+    width:300px;
+}
+.vid-1{
+    width:300px;
+    margin-top:20px;
+}
+.title{
+    width:300px;
+}
+.thumb1{
+    display:inline-block;
+    margin-right:20px;
+    vertical-align:top;
+}
