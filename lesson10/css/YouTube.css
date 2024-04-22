@@ -1,0 +1,59 @@
+.search{
+    display:block;
+    width:300px;
+}
+.vid{
+    width:350px;
+}
+.thumb1{
+    display:inline-block;
+    margin-right:20px;
+    vertical-align:top;
+}
+.vid-card{
+    margin-top:20px;
+    margin-right: 35px;
+    width:330px;
+    height:310px;
+    display: inline-block;
+    vertical-align: top;
+}
+.thumb{
+    margin-bottom: 10px;
+}
+.channeldp{
+    display: inline-block;
+    vertical-align: top;
+}
+.icon{
+    border-radius: 50px;
+    width: 40px;
+    margin-right: 10px;
+}
+.info{
+    width:200px;
+    display: inline-block;
+}
+.title{
+    width: 300px;
+    margin:0;
+    margin-bottom: 10px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
+.owner{
+    margin: 0;
+    margin-bottom: 2px;
+    font-family: Roboto;
+    color: rgb(96,96,96);
+    font-size: 12px;
+}
+.stat{
+    margin: 0;
+    font-family: Roboto;
+    font-size: 13px;
+    color: rgb(96,96,96);
+}
+
