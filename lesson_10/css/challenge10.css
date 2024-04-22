@@ -1,0 +1,60 @@
+.profile-card{
+    width:250px;
+    height:320;
+    box-shadow: 0px 0px 5px rgb(0, 0, 0);
+    display: inline-block;
+    margin-right: 20px;
+}
+.name{
+    font-family: Arial;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.frd{
+    font-family: Arial;
+    margin-left: 5px;
+    font-size: 20px; 
+    margin-top: 2px;
+    color: gray;
+    margin-bottom:10px;
+}
+.add{
+    font-family: Arial;
+    margin-left: 10px;
+    font-size: 15px;
+    padding: 10px 15px;
+    color: white;
+    background-color: rgb(49, 93, 224);
+    border:none;
+    margin-top:0;
+    margin-bottom:10px;
+    cursor: pointer;
+}
+.dp{
+    width:250px;
+    height:200px;
+    object-fit: cover;
+}
+.icon{
+    width:40px;
+    height:40px;
+    border-radius: 50px;
+    object-fit: cover;
+}
+.pdp{
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+.pfrd{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 15px;
+}
+.btn{
+    margin-top: 10px;
+}
