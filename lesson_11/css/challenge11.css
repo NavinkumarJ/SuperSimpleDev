@@ -1,0 +1,46 @@
+.out-1{
+    display: grid;
+    grid-template-columns: 200px 75px; 
+    margin-bottom: 20px; 
+}
+.lft-1{
+    background-color: lightblue;
+}
+.rgt-1{
+    background-color: lightpink;
+}
+
+.out-2{
+    display: grid;
+    grid-template-columns: 50px 1fr 75px;   
+    margin-bottom: 20px; 
+}
+.lft-2{
+    background-color: lightblue;
+}
+.mid-2{
+    background-color: lightpink;
+}
+.rgt-2{
+    background-color: lightblue;
+}
+
+.out-3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-bottom: 100px; 
+    column-gap: 20px;
+    row-gap: 10px;
+}
+.fst-3{
+    background-color: lightpink;
+}
+.sec-3{
+    background-color: lightpink;
+}
+.tir-3{
+    background-color: lightpink;
+}
+.for-3{
+    background-color: lightpink;
+}
